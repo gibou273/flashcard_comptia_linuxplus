@@ -6,7 +6,6 @@ from send_email import send_mail
 
 
 BACKGROUND_COLOR = "#a3d3d6"
-
 acronyms_to_learn = []
 current_item = {}
 
