@@ -1,10 +1,11 @@
+import tkinter
 from tkinter import Tk, Canvas, PhotoImage, Button
 import pandas
 import random
 import os
 from send_email import send_mail
 
-
+print(tkinter.TkVersion)
 BACKGROUND_COLOR = "#a3d3d6"
 acronyms_to_learn = []
 current_item = {}
